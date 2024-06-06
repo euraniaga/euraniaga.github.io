@@ -46,7 +46,7 @@ const AboutUsLayout: React.FC = () => {
         };
       });
     }
-    if (pixel > 1250) {
+    if (pixel > 1000) {
       setRenderedComp((prev) => {
         return {
           ...prev,
@@ -54,7 +54,7 @@ const AboutUsLayout: React.FC = () => {
         };
       });
     }
-    if (pixel > 1750) {
+    if (pixel > 1500) {
       setRenderedComp((prev) => {
         return {
           ...prev,
