@@ -26,6 +26,12 @@
   height: 400px;
 }
 
+@media (max-width: 1280px) {
+  .authenticity-headline-category {
+    font-size: 70px;
+  }
+}
+
 @media (max-width: 430px) {
   .authenticity {
     margin-top: 10%;

@@ -11,7 +11,7 @@ const Layout = () => {
         <Outlet />
       </main>
       <footer className={styles.footer}>
-        <p>All Rights Reserved © 2024</p>
+        <p>© 2024 Eura. All Rights Reserved</p>
       </footer>
     </Fragment>
   );

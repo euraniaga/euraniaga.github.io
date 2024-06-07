@@ -27,6 +27,12 @@
   width: 550px;
 }
 
+@media (max-width: 1280px) {
+  .history-headline-category {
+    font-size: 120px;
+  }
+}
+
 @media (max-width: 430px) {
   .history {
     flex-direction: column;
