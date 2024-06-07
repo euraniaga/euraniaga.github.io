@@ -1,30 +1,55 @@
-# React + TypeScript + Vite
+# Eura Project
+[Website](https://euraniaga.github.io)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Contact](#contact)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## General Information
+- **Eura Project** is a company profile website developed for PT. Euraniaga Mitra Abadi (Eura). This project aims to show the online presence of the company by showcasing its identity as a medical supply distributor.
+- The project highlights the modern web development practices, featuring client-side rendering and seamless animation transition.
 
-## Expanding the ESLint configuration
+## Technologies Used
+- React: A JavaScript library for building user interfaces, chosen for its component-based architecture and efficient rendering.
+- TypeScript: A typed superset of JavaScript that adds static types, improving code quality and maintainability.
+- Vite: A fast build tool and development server, chosen for its speed and modern development features.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Features
+List the ready features here:
+- Multiple Single Page Website: Smooth navigation on multiple pages without reload.
+- Animation
+- Responsive CSS
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+## Setup
+1. Clone the repository 
+```
+git clone https://github.com/pannandayu/eura.git
+cd eura-project
+```
+2. Install dependencies
+```
+npm install
+```
+3. Run project on development mode
+```
+npm run dev
+```
+4. Build project
+```
+npm run build
+```
+5. Run project on production mode
+```
+npm run preview
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Project Status
+Project is: _complete_ 
+
+## Contact
+Created by [Pannanda Liko Yu](https://www.linkedin.com/in/pannandalikoyu/)
