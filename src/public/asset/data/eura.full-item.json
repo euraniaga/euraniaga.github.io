@@ -1,0 +1,813 @@
+[
+  {
+    "name": "Non-Sterile Handscoon",
+    "brand": "",
+    "type": "",
+    "unit": "Box",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78692495?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Hyfafix",
+    "brand": "BSN",
+    "type": "10 x 5 M",
+    "unit": "Bottle",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79164495?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Hyfafix",
+    "brand": "BSN",
+    "type": "5 x 5 M",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79870625?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Ice Pack",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79659103?type=general",
+    "segment": "non-sterile-electromedic, pkrt"
+  },
+  {
+    "name": "Wound Dressing Cotton",
+    "brand": "Moon Rina",
+    "type": "1000 gr",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78713334?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Puyer Paper",
+    "brand": "",
+    "type": "",
+    "unit": "Pack",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78713729?type=general",
+    "segment": "non-sterile-electromedic, sterile-electromedic"
+  },
+  {
+    "name": "Sterile Hydrofil Gauze",
+    "brand": "Moon Rina",
+    "type": "40 x 80",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79061561?type=general",
+    "segment": "non-sterile-electromedic, non-radiation-electromedic"
+  },
+  {
+    "name": "Sterile Gauze Swabs",
+    "brand": "Moon Rina",
+    "type": "10 cm",
+    "unit": "Pack",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79723376?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Disposable Mask",
+    "brand": "Gea",
+    "type": "",
+    "unit": "Box/50 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78691301?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Manset Cuff",
+    "brand": "Omron",
+    "type": "",
+    "unit": "",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79106639?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Cylinder Plesterine",
+    "brand": "Life Resource",
+    "type": "Transparent",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78047469?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Cloth Plaster (Roll)",
+    "brand": "Leukoplast",
+    "type": "7,5 x 4,5 M",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78713921?type=general",
+    "segment": "non-sterile-electromedic"
+  },
+  {
+    "name": "Disposable Apron",
+    "brand": "Remedy",
+    "type": "Plastic",
+    "unit": "Pack/50 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79327965?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Disposable Vagion",
+    "brand": "Cosmo Med",
+    "type": "S",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79655594?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Disposable Vagion",
+    "brand": "Cosmo Med",
+    "type": "M",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79655594?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Disposable Vagion",
+    "brand": "Cosmo Med",
+    "type": "L",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79655594?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Gauze",
+    "brand": "Moon Rina",
+    "type": "16 x 16",
+    "unit": "Pack/12 Box",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78693247?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Needle",
+    "brand": "Terumo",
+    "type": "23 G",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79505563?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Needle",
+    "brand": "Terumo",
+    "type": "25 G",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79505204?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Needle",
+    "brand": "Terumo",
+    "type": "27 G",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79505748?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Nasal Oxygen",
+    "brand": "Onehealth",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79061207?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Spuit",
+    "brand": "Quick Check",
+    "type": "3 ml",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78663106?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Spuit",
+    "brand": "Terumo",
+    "type": "3 ml",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79106170?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Spuit",
+    "brand": "Onehealth",
+    "type": "5 ml",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79106390?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Spuit",
+    "brand": "Onehealth",
+    "type": "1 ml",
+    "unit": "Box/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79129504?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Vaseline Swab",
+    "brand": "Wintuell",
+    "type": "10 cm x 10 cm",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78713052?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Yellow Tip",
+    "brand": "",
+    "type": "",
+    "unit": "Pack",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/65275437?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Blue Tip",
+    "brand": "",
+    "type": "",
+    "unit": "Pack",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/65273589?type=general",
+    "segment": "sterile-electromedic"
+  },
+  {
+    "name": "Alila",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64526571?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Waist Circumference Measuring Tool",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64524877?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Sterile Instrument Box",
+    "brand": "",
+    "type": "509",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79695174?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Sterile Instrument Box",
+    "brand": "",
+    "type": "512",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79695404?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Deck Glass",
+    "brand": "",
+    "type": "24 x 24",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/74331575?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Deck Glass",
+    "brand": "",
+    "type": "22 x 22",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64394067?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Ionomer Glass",
+    "brand": "General Care",
+    "type": "A3",
+    "unit": "Box",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79332360?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Ionomer Glass",
+    "brand": "General Care",
+    "type": "A2",
+    "unit": "Box",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79332054?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "HCG (Pregnancy Test)",
+    "brand": "Onehealth",
+    "type": "Strip",
+    "unit": "Box",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78269767?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Haemocytometer",
+    "brand": "",
+    "type": "",
+    "unit": "Set",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64396559?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Blood Type Card",
+    "brand": "",
+    "type": "",
+    "unit": "Pack/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64526088?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "ECG Paper",
+    "brand": "",
+    "type": "80 x 25 M",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79364379?type=general",
+    "segment": "in-vitro-diagnostic, non-radiation-electromedic"
+  },
+  {
+    "name": "USG Paper",
+    "brand": "Sony",
+    "type": "110 HG",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/74304551?type=general",
+    "segment": "in-vitro-diagnostic, non-radiation-electromedic"
+  },
+  {
+    "name": "Bent Clamp",
+    "brand": "",
+    "type": "14 cm",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79695648?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Big Comm",
+    "brand": "",
+    "type": "36 cm",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79695870?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Small Comm",
+    "brand": "",
+    "type": "8 cm",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79696154?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Yellow Sputum Pot",
+    "brand": "",
+    "type": "60 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78085874?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "PCR Tube",
+    "brand": "",
+    "type": "1,5 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64772222?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Parafilm",
+    "brand": "",
+    "type": "4 inc",
+    "unit": "Roll",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79133168?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urine Pot",
+    "brand": "",
+    "type": "10 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/60315055?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urine Pot",
+    "brand": "",
+    "type": "20 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/60317458?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urine Pot",
+    "brand": "",
+    "type": "30 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/60319194?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urine Pot",
+    "brand": "",
+    "type": "50 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/60320752?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urine Pot",
+    "brand": "",
+    "type": "100 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/60321949?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Pulp X (Devitalizer)",
+    "brand": "",
+    "type": "Blue",
+    "unit": "Pot",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79332548?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Pulp X (Devitalizer)",
+    "brand": "",
+    "type": "Orange",
+    "unit": "Pot",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79658740?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Leucocytes Pipette",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64389706?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Entrocytes Pipette",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64386605?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Anatomy Tweezers",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79691622?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Plastic Piss Pot",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79696399?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Oximetry Pulse",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79698993?type=general",
+    "segment": "in-vitro-diagnostic, non-radiation-electromedic"
+  },
+  {
+    "name": "Reagent",
+    "brand": "Reiged",
+    "type": "Anti-D",
+    "unit": "Vial",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78086187?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Reagent",
+    "brand": "Reiged",
+    "type": "Anti-A",
+    "unit": "Vial",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78269347?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Reagent",
+    "brand": "Reiged",
+    "type": "Anti-B",
+    "unit": "Vial",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78269552?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Cholesterol Strip",
+    "brand": "Autocheck",
+    "type": "",
+    "unit": "Box/10 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/76356089?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Glucose Level Strip",
+    "brand": "Autocheck",
+    "type": "",
+    "unit": "Box/25 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78049834?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Cholesterol Strip",
+    "brand": "Autocheck",
+    "type": "",
+    "unit": "Box/10 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78371644?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Glucose Level Strip",
+    "brand": "Eazy Touch",
+    "type": "",
+    "unit": "Box/25 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78372076?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Uric Acid Strip",
+    "brand": "Eazy Touch",
+    "type": "",
+    "unit": "Box/25 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78371858?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Haemoglobin Strip",
+    "brand": "Eazy Touch",
+    "type": "",
+    "unit": "Box/25 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78372229?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Haemoglobin Strip",
+    "brand": "Eazy Touch",
+    "type": "",
+    "unit": "Box/50 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78372361?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Medicine Spoon",
+    "brand": "Onehealth",
+    "type": "5 ml",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79328457?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Stature Meter",
+    "brand": "Gea",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/65926745?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Adult Stethoscope",
+    "brand": "ABN",
+    "type": "Majestic",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79692181?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "EDTA Tube",
+    "brand": "General Care",
+    "type": "3 ml",
+    "unit": "Pack/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78047759?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Aneroid Tension Meter",
+    "brand": "ABN",
+    "type": "",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79102760?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Aneroid Tension Meter",
+    "brand": "GC",
+    "type": "",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79697895?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Glass Reaction Tube",
+    "brand": "",
+    "type": "12 x 75",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78968195?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Disposable Reaction Tube",
+    "brand": "",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79133917?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Plain Tube",
+    "brand": "General Care",
+    "type": "3 ml",
+    "unit": "Pack/100 pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78687940?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Room Thermometer",
+    "brand": "Gea",
+    "type": "Manual",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/65929482?type=general",
+    "segment": "in-vitro-diagnostic, non-radiation-electromedic"
+  },
+  {
+    "name": "Adult Weighing Scale",
+    "brand": "Gea",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79870903?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urinal",
+    "brand": "",
+    "type": "Plastic",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79696599?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "Urinanalysis Test",
+    "brand": "Verify",
+    "type": "pH 3",
+    "unit": "Box",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78269653?type=general",
+    "segment": "in-vitro-diagnostic"
+  },
+  {
+    "name": "ECG",
+    "brand": "Fukuda",
+    "type": "C120",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79017018?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "ECG",
+    "brand": "Mindray Beneheart",
+    "type": "R3",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79018070?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Head Lamp",
+    "brand": "Lokal",
+    "type": "",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/66744820?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Wheelchair",
+    "brand": "Gea",
+    "type": "FS-871",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79684853?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Wheelchair",
+    "brand": "Sella",
+    "type": "SS",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79010823?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Adult Tension Meter Cuff",
+    "brand": "",
+    "type": "Jumbo",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79871534?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Nebulizer",
+    "brand": "",
+    "type": "",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79010395?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Nebulizer",
+    "brand": "",
+    "type": "NE-C28",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79686275?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Penlight",
+    "brand": "General Care",
+    "type": "LED",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79694907?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Regulator",
+    "brand": "",
+    "type": "",
+    "unit": "Set",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79698322?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Ditigal Tension Meter",
+    "brand": "Omron",
+    "type": "7140TI",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79105382?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Digital Weighing Scale",
+    "brand": "Gea",
+    "type": "",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79129785?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Digital Thermometer",
+    "brand": "Polygren",
+    "type": "Infrared",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79698709?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Refridgerator (Cool Box) Thermometer",
+    "brand": "",
+    "type": "Manual",
+    "unit": "Pcs",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79659747?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Glucose, Cholesterol, and Haemoglobin Test",
+    "brand": "Eazy Touch",
+    "type": "Eazy Touch",
+    "unit": "Unit",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/78377694?type=general",
+    "segment": "non-radiation-electromedic"
+  },
+  {
+    "name": "Ethanoic Acid",
+    "brand": "",
+    "type": "100 ml",
+    "unit": "Bottle",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/69755171?type=general",
+    "segment": "pkrt"
+  },
+  {
+    "name": "Hayem",
+    "brand": "",
+    "type": "100 ml",
+    "unit": "Bottle",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/64416201?type=general",
+    "segment": "pkrt"
+  },
+  {
+    "name": "USG Jelly",
+    "brand": "General Care",
+    "type": "250 ml",
+    "unit": "Bottle",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79133646?type=general",
+    "segment": "pkrt"
+  },
+  {
+    "name": "Rivanol",
+    "brand": "Reiged",
+    "type": "100 ml",
+    "unit": "Bottle",
+    "link": "https://e-katalog.lkpp.go.id/katalog/produk/detail/79164123?type=general",
+    "segment": "pkrt"
+  },
+  {
+    "name": "Back"
+  }
+]

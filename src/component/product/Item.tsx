@@ -1,12 +1,12 @@
 import { Link, useLoaderData } from "react-router-dom";
-import jsonData from "../../public/asset/data/eura.items.json";
+import reference from "../../public/asset/data/eura.full-item.json";
 import styles from "../../css/Item.module.css";
 
 const { BASE_URL } = import.meta.env;
 
 const Item: React.FC = () => {
   const loader = useLoaderData() as string;
-  const item = jsonData.filter((el) => el.name === loader);
+  const item = reference.filter((el) => el.name === loader);
 
   return (
     <div className={styles.item}>
@@ -19,14 +19,14 @@ const Item: React.FC = () => {
               key={el.name + "_" + typeKey}
               className={styles["item-detail"]}
             >
-              {el.brand !== undefined && (
+              {el.brand !== "" && (
                 <div>
                   <p>Brand</p>
                   <p>{el.brand}</p>
                   <p>—</p>
                 </div>
               )}
-              {el.type !== undefined && (
+              {el.type !== "" && (
                 <div>
                   <p>Type</p>
                   <p>{el.type}</p>
@@ -34,7 +34,7 @@ const Item: React.FC = () => {
                 </div>
               )}
               <div>
-                {el.link !== undefined ? (
+                {el.link !== "" ? (
                   <a href={el.link} target="_blank">
                     <p>Link</p>
                   </a>
