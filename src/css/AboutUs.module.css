@@ -14,6 +14,12 @@
   width: 50%;
 }
 
+@media (max-width: 1280px) {
+  .about-us-layout {
+    height: 470vh;
+  }
+}
+
 @media (min-width: 1000px) {
   .about-us-layout p {
     font-size: 18px;
