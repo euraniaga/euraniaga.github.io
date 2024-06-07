@@ -27,6 +27,12 @@
   height: 600px;
 }
 
+@media (max-width: 1280px) {
+  .ethos {
+    margin-top: 13%;
+  }
+}
+
 @media (max-width: 430px) {
   .ethos {
     margin-top: 8%;

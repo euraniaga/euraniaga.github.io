@@ -22,6 +22,10 @@
   .introduction h1 {
     font-size: 300%;
   }
+
+  .introduction {
+    width: 95%;
+  }
 }
 
 @media (max-width: 430px) {
