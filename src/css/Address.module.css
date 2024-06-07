@@ -8,6 +8,12 @@
   margin: 0;
 }
 
+@media (max-width: 1280px) {
+  .address {
+    margin-top: 25%;
+  }
+}
+
 @media (max-width: 430px) {
   .address {
     margin-top: 30%;
