@@ -18,6 +18,12 @@
   transition: 0.2s ease-in-out;
 }
 
+@media (max-width: 1280px) {
+  .introduction h1 {
+    font-size: 300%;
+  }
+}
+
 @media (max-width: 430px) {
   .introduction h1 {
     text-align: center;

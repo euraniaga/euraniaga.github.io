@@ -9,6 +9,16 @@
   font-size: 500%;
 }
 
+@media (max-width: 1280px) {
+  .landing {
+    padding: 0;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 100vh;
+  }
+}
+
 @media (max-width: 430px) {
   .landing {
     padding: 0;
