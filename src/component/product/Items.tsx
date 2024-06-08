@@ -65,7 +65,7 @@ const Items: React.FC = () => {
           animate={{ opacity: 1, y: 0 }}
         >
           <div>
-            <label>Search by category</label>
+            <label>Filter by category</label>
             <select onChange={searchCategoryHandler}>
               <option value={"all"}>All</option>
               <option value={"non-sterile-electromedic"}>
@@ -90,8 +90,8 @@ const Items: React.FC = () => {
           {uniqueItems.map((el) => {
             return (
               <motion.div
-                // initial={{ opacity: 0, y: 50 }}
-                // animate={{ opacity: 1, y: 0 }}
+                initial={{ opacity: 0, y: 50 }}
+                animate={{ opacity: 1, y: 0 }}
                 className={styles["item-card"]}
                 key={el}
               >
@@ -117,10 +117,10 @@ export default Items;
 
 const filter = (name: string, category: string) => {
   if (category === "all") {
-    return data.filter((el) => el.name.toLowerCase().match(name));
+    return data.filter((el) => el.name.toLowerCase().includes(name));
   } else {
     return data
       .filter((el) => el.segment?.includes(category))
-      .filter((el) => el.name.toLowerCase().match(name));
+      .filter((el) => el.name.toLowerCase().includes(name));
   }
 };
