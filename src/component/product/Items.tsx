@@ -3,6 +3,8 @@ import styles from "../../css/Items.module.css";
 import jsonData from "../../public/asset/data/eura.items.json";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import { useAtom } from "jotai";
+import { categoryAtom } from "../../context/atom";
 
 const { BASE_URL } = import.meta.env;
 
@@ -24,7 +26,7 @@ const data = jsonData.map((el) => {
 
 const Items: React.FC = () => {
   const [searchName, setSearchName] = useState("");
-  const [searchCategory, setSearchCategory] = useState("all");
+  const [searchCategory, setSearchCategory] = useAtom(categoryAtom);
 
   const [itemList, _] = useState(filter("", "all"));
   const [uniqueItems, setUniqueItems] = useState([
@@ -69,7 +71,7 @@ const Items: React.FC = () => {
         >
           <div>
             <label>Filter by category</label>
-            <select onChange={searchCategoryHandler}>
+            <select onChange={searchCategoryHandler} value={searchCategory}>
               <option value={"all"}>All</option>
               <option value={"non-sterile-electromedic"}>
                 Non-Sterile Electromedic

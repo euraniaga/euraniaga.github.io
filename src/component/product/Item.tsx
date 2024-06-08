@@ -17,7 +17,7 @@ const Item: React.FC = () => {
             const typeKey = el.type || "";
             return (
               <div
-                key={el.name + "_" + typeKey}
+                key={el.name + "_" + typeKey + "_" + el.link}
                 className={styles["item-detail"]}
               >
                 {el.brand !== "" && (
@@ -59,6 +59,7 @@ const Item: React.FC = () => {
         >
           Back
         </Link>
+        <br />
       </div>
     </div>
   );
