@@ -50,3 +50,15 @@
 .back-button:hover {
   color: #f1dc9c;
 }
+
+@media (max-width: 430px) {
+  .item {
+    height: auto;
+    margin-top: 15%;
+  }
+
+  .item h1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
