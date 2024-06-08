@@ -49,7 +49,7 @@ const Items: React.FC = () => {
           ? [...new Set(filteredData.map((el) => el.name))]
           : ["No items found"]
       );
-    }, 500);
+    }, 100);
     return () => clearTimeout(timerId);
   }, [searchName, searchCategory]);
 
@@ -84,7 +84,7 @@ const Items: React.FC = () => {
               <option value={"pkrt"}>Household Health Products</option>
             </select>
           </div>
-          <div>
+          <div className={styles["search-by-name"]}>
             <label htmlFor="name">Search by name</label>
             <input id="name" value={searchName} onChange={searchNameHandler} />
           </div>
