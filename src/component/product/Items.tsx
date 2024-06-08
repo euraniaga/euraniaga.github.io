@@ -1,6 +1,6 @@
 import React, { ChangeEvent, useEffect, useState } from "react";
 import styles from "../../css/Items.module.css";
-import jsonData from "../../public/asset/data/eura.full-item.json";
+import jsonData from "../../public/asset/data/eura.items.json";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
@@ -90,8 +90,8 @@ const Items: React.FC = () => {
           {uniqueItems.map((el) => {
             return (
               <motion.div
-                initial={{ opacity: 0, y: 50 }}
-                animate={{ opacity: 1, y: 0 }}
+                // initial={{ opacity: 0, y: 50 }}
+                // animate={{ opacity: 1, y: 0 }}
                 className={styles["item-card"]}
                 key={el}
               >

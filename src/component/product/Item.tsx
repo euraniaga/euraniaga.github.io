@@ -1,5 +1,5 @@
 import { Link, useLoaderData } from "react-router-dom";
-import reference from "../../public/asset/data/eura.full-item.json";
+import reference from "../../public/asset/data/eura.items.json";
 import styles from "../../css/Item.module.css";
 
 const { BASE_URL } = import.meta.env;
@@ -10,44 +10,55 @@ const Item: React.FC = () => {
 
   return (
     <div className={styles.item}>
-      <h1>{loader} is available!</h1>
-      <div className={styles["item-content"]}>
-        {item.map((el) => {
-          const typeKey = el.type || "";
-          return (
-            <div
-              key={el.name + "_" + typeKey}
-              className={styles["item-detail"]}
-            >
-              {el.brand !== "" && (
-                <div>
-                  <p>Brand</p>
-                  <p>{el.brand}</p>
-                  <p>—</p>
-                </div>
-              )}
-              {el.type !== "" && (
-                <div>
-                  <p>Type</p>
-                  <p>{el.type}</p>
-                  <p>—</p>
-                </div>
-              )}
-              <div>
-                {el.link !== "" ? (
-                  <a href={el.link} target="_blank">
-                    <p>Link</p>
-                  </a>
-                ) : (
-                  <a href={"https://wa.me/6281294181950"} target="_blank">
-                    <p>WhatsApp</p>
-                  </a>
+      <div>
+        <h1>{loader} is available!</h1>
+        <div className={styles["item-content"]}>
+          {item.map((el) => {
+            const typeKey = el.type || "";
+            return (
+              <div
+                key={el.name + "_" + typeKey}
+                className={styles["item-detail"]}
+              >
+                {el.brand !== "" && (
+                  <div className={styles["detail-section"]}>
+                    <p>Brand:</p>
+                    <p>{el.brand}</p>
+                  </div>
                 )}
+                {el.type !== "" && (
+                  <div className={styles["detail-section"]}>
+                    <p>Type:</p>
+                    <p>{el.type}</p>
+                  </div>
+                )}
+                {el.unit !== "" && (
+                  <div className={styles["detail-section"]}>
+                    <p>Unit:</p>
+                    <p>{el.unit}</p>
+                  </div>
+                )}
+                <div className={styles["detail-section"]}>
+                  {el.link !== "" ? (
+                    <a href={el.link} target="_blank">
+                      <p>Link</p>
+                    </a>
+                  ) : (
+                    <a href={"https://wa.me/6281294181950"} target="_blank">
+                      <p>WhatsApp</p>
+                    </a>
+                  )}
+                </div>
               </div>
-            </div>
-          );
-        })}
-        <Link to={BASE_URL + "products/items"}>Back</Link>
+            );
+          })}
+        </div>
+        <Link
+          className={styles["back-button"]}
+          to={BASE_URL + "products/items"}
+        >
+          Back
+        </Link>
       </div>
     </div>
   );
