@@ -26,7 +26,7 @@ const Items: React.FC = () => {
   const [searchName, setSearchName] = useState("");
   const [searchCategory, setSearchCategory] = useState("all");
 
-  const [itemList, setItemList] = useState(filter("", "all"));
+  const [itemList, _] = useState(filter("", "all"));
   const [uniqueItems, setUniqueItems] = useState([
     ...new Set(itemList.map((el) => el.name)),
   ]);
@@ -44,9 +44,12 @@ const Items: React.FC = () => {
   useEffect(() => {
     const timerId = setTimeout(() => {
       const filteredData = filter(searchName, searchCategory);
-      setItemList(filteredData);
-      setUniqueItems([...new Set(filteredData.map((el) => el.name))]);
-    }, 100);
+      setUniqueItems(
+        filteredData.length !== 0
+          ? [...new Set(filteredData.map((el) => el.name))]
+          : ["No items found"]
+      );
+    }, 500);
     return () => clearTimeout(timerId);
   }, [searchName, searchCategory]);
 
