@@ -14,6 +14,7 @@ import Items from "./component/product/Items";
 import AboutUs from "./page/AboutUs";
 import Products from "./page/Products";
 import Shop from "./page/Shop";
+import Email from "./component/home/Email";
 
 const { BASE_URL } = import.meta.env;
 
@@ -39,6 +40,7 @@ function App() {
         { path: BASE_URL + "products/brands", element: <Brands /> },
         { path: BASE_URL + "about-us", element: <AboutUs /> },
         { path: BASE_URL + "shop", element: <Shop /> },
+        { path: BASE_URL + "email", element: <Email /> },
       ],
       errorElement: <Error />,
     },
