@@ -17,7 +17,7 @@ const Menu: React.FC = () => {
   const contactList = [
     { title: "WhatsApp 1", path: "https://wa.me/6281279909679" },
     { title: "WhatsApp 2", path: "https://wa.me/6281294181950" },
-    { title: "E-mail", path: "email" },
+    { title: "Email", path: "email" },
   ];
 
   return (
@@ -66,7 +66,7 @@ const Menu: React.FC = () => {
                     }}
                     style={{ cursor: "pointer" }}
                   >
-                    {el.title === "E-mail" ? (
+                    {el.title === "Email" ? (
                       <Link
                         onClick={() => setMenuState(false)}
                         to={BASE_URL + el.path}
