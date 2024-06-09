@@ -17,7 +17,7 @@ const Menu: React.FC = () => {
   const contactList = [
     { title: "WhatsApp 1", path: "https://wa.me/6281279909679" },
     { title: "WhatsApp 2", path: "https://wa.me/6281294181950" },
-    { title: "E-mail (on development)", path: "" },
+    { title: "E-mail", path: "email" },
   ];
 
   return (
@@ -64,14 +64,24 @@ const Menu: React.FC = () => {
                       ease: "easeInOut",
                       delay: index * 0.2,
                     }}
+                    style={{ cursor: "pointer" }}
                   >
-                    <a
-                      onClick={() => setMenuState(false)}
-                      href={el.path}
-                      target="_blank"
-                    >
-                      {el.title}
-                    </a>
+                    {el.title === "E-mail" ? (
+                      <Link
+                        onClick={() => setMenuState(false)}
+                        to={BASE_URL + el.path}
+                      >
+                        {el.title}
+                      </Link>
+                    ) : (
+                      <a
+                        onClick={() => setMenuState(false)}
+                        href={el.path}
+                        target="_blank"
+                      >
+                        {el.title}
+                      </a>
+                    )}
                   </motion.h4>
                 );
               })}

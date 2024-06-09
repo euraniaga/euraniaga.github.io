@@ -27,7 +27,7 @@ const Rating: React.FC = () => {
             href="https://e-katalog.lkpp.go.id/info/penyedia/552304"
             target="_blank"
           >
-            E-Catalogue Rating
+            LKPP Rating
           </a>
         </h1>
         <div className={styles["rating-box"]}>
