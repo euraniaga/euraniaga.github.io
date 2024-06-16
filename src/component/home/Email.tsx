@@ -1,15 +1,16 @@
 import emailjs from "@emailjs/browser";
-import { FormEvent, useRef } from "react";
-import styles from "../../css/Email.module.css";
-import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import { FormEvent, useRef } from "react";
+import { Link, useNavigate } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import styles from "../../css/Email.module.css";
 
 const { BASE_URL } = import.meta.env;
 
 const Email: React.FC = () => {
   const form = useRef<HTMLFormElement | null>(null);
+  const navigate = useNavigate();
 
   const sendEmail = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -32,11 +33,15 @@ const Email: React.FC = () => {
         throw new Error("Failed to send message, please try again later.");
       }
 
-      toast.success("Message successfully sent!", {
+      toast.success("Message successfully sent! Redirecting...", {
         autoClose: 2500,
         position: "top-center",
         theme: "dark",
       });
+
+      setTimeout(() => {
+        navigate(BASE_URL);
+      }, 3000);
     } catch (err: any) {
       console.error(err);
       toast.error(err.message, {
